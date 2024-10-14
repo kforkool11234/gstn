@@ -83,8 +83,8 @@ To run the model, you'll need the following files:
 
 1. `gst-model.pkl`: The trained XGBoost model saved as a pickle file.
 2. `gstn-main.py`: Python script to load and run the model.
-3. `gstn-main.ipynb`: Jupyter notebook version of the script.
-4. Dataset files: `X_Train_Data_Input.csv`, `Y_Train_Data_Target.csv`, `X_Test_Data_Input.csv`, `Y_Test_Data_Target.csv`
+3. `XGBoost_run.ipynb`: Jupyter notebook version of the script.
+4. Dataset files: `X_Train_Data_Input.csv`, `Y_Train_Data_Target.csv`, `X_Test_Data_Input.csv`, `Y_Test_Data_Target.csv` [Not Provided in the git repo]
 
 ### Steps to run the model:
 
